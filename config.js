@@ -95,7 +95,7 @@ var config = {
             hidden: false,
             title: 'The Burke Museum',
             image: './Burke.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Mission: The Burke Museum cares for and shares natural and cultural collections so all people can learn, be inspired, generate knowledge, feel joy, and heal.',
             location: {
                 center: { lon: -122.31086, lat: 47.65989 },
                 zoom: 13.14,
@@ -125,7 +125,7 @@ var config = {
             hidden: false,
             title: 'Marine Science and Technology Center',
             image: './MaST-Header-Image2.jpeg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Mission: To promote understanding, appreciation, and preservation of the marine environment through hands-on research, education, and community activities that highlights the beauty, complexity, and importance of the South Puget Sound ecosystem.',
             location: {
                 center: { lon: -122.32676, lat: 47.34005 },
                 zoom: 11.05,
@@ -155,7 +155,7 @@ var config = {
             hidden: false,
             title: 'Westport Maritime Museum',
             image: './WMM.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Mission: To educate and interpret the maritime history of our coastal community and to advocate for the preservation of our local historical structures.',
             location: {
                 center: { lon: -124.11045, lat: 46.90452 },
                 zoom: 10.70,
