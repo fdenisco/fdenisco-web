@@ -15,7 +15,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Whale Museum',
-            image: './path/to/image/source.png',
+            image: './TWM.png',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: { lon: -123.01835, lat: 48.53455 },
@@ -45,7 +45,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Port Townsend Science Center',
-            image: './path/to/image/source.png',
+            image: './PTSC.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: { lon: -122.76934, lat: 48.13897 },
@@ -64,7 +64,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Langley Whale Center',
-            image: './path/to/image/source.png',
+            image: './LWC.png',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: { lon: -122.41659, lat: 48.03629 },
@@ -94,7 +94,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Burke Museum',
-            image: './path/to/image/source.png',
+            image: './Burke.png',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: { lon: -122.31086, lat: 47.65989 },
@@ -124,7 +124,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Marine Science and Technology Center',
-            image: './path/to/image/source.png',
+            image: './MaST-Header-Image2.jpeg',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: { lon: -122.32676, lat: 47.34005 },
@@ -154,7 +154,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Westport Maritime Museum',
-            image: './path/to/image/source.png',
+            image: './WMM.png',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: { lon: -124.11045, lat: 46.90452 },
