@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: 'The Whale Museum',
             image: './TWM.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Mission: To promote stewardship of whales and the Salish Sea ecosystem through education and research.',
             location: {
                 center: { lon: -123.01835, lat: 48.53455 },
                 zoom: 13.05,
@@ -46,7 +46,7 @@ var config = {
             hidden: false,
             title: 'Port Townsend Science Center',
             image: './PTSC.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'The Port Townsend Marine Science Center (PTMSC) is an educational and scientific organization devoted to understanding and conserving our marine and shoreline environment.',
             location: {
                 center: { lon: -122.76934, lat: 48.13897 },
                 zoom: 11.42,
@@ -65,7 +65,7 @@ var config = {
             hidden: false,
             title: 'Langley Whale Center',
             image: './LWC.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Mission: To celebrate and share the lives of gray whales, orcas and other marine mammals of the Salish Sea.',
             location: {
                 center: { lon: -122.41659, lat: 48.03629 },
                 zoom: 10.91,
